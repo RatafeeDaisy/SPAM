@@ -1,0 +1,215 @@
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       0.99      0.99      0.99      4531
+
+    accuracy                           1.00     45000
+   macro avg       0.99      0.99      0.99     45000
+weighted avg       1.00      1.00      1.00     45000
+
+training took 94.927109s!
+confusion matrix
+[[4490    9]
+ [  42  459]]
+TP:4490
+TN:459
+FP:42
+FN:9
+Recalls: 0.9979995554567682
+Precisions: 0.9907325684024714
+Accuracys: 0.9898
+f_value: 0.9943527848521759
+*************** Trainning done in 98.003s ***************
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       0.99      0.99      0.99      4531
+
+    accuracy                           1.00     45000
+   macro avg       0.99      0.99      0.99     45000
+weighted avg       1.00      1.00      1.00     45000
+
+training took 101.514870s!
+confusion matrix
+[[4490    9]
+ [  42  459]]
+TP:4490
+TN:459
+FP:42
+FN:9
+Recalls: 0.9979995554567682
+Precisions: 0.9907325684024714
+Accuracys: 0.9898
+f_value: 0.9943527848521759
+*************** Trainning done in 104.815s ***************
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       0.99      0.99      0.99      4531
+
+    accuracy                           1.00     45000
+   macro avg       0.99      0.99      0.99     45000
+weighted avg       1.00      1.00      1.00     45000
+
+training took 89.933205s!
+confusion matrix
+[[4490    9]
+ [  42  459]]
+TP:4490
+TN:459
+FP:42
+FN:9
+Recalls: 0.9979995554567682
+Precisions: 0.9907325684024714
+Accuracys: 0.9898
+f_value: 0.9943527848521759
+*************** Trainning done in 93.104s ***************
+
+
+Training Features Shape: (45000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+"dot" with args ['-Tpng', 'C:\\Users\\dell\\AppData\\Local\\Temp\\tmp_h5_085p'] returned code: 1
+
+stdout, stderr:
+ b''
+b'Format: "png" not recognized. No formats found.\r\nPerhaps "dot -c" needs to be run (with installer\'s privileges) to register the plugins?\r\n'
+
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+<class 'scipy.sparse._csr.csr_matrix'>
+<class 'list'>
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+<class 'scipy.sparse._csr.csr_matrix'>
+<class 'list'>
+<class 'numpy.ndarray'>
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+<class 'numpy.ndarray'>
+<class 'numpy.ndarray'>
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+[0.02603603 0.02603603 0.02603603 ... 0.02603603 0.12308468 0.02603603]
+['0' '0' '0' ... '0' '1' '0']
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+[0.02603603 0.02603603 0.02603603 ... 0.02603603 0.12308468 0.02603603]
+[0. 0. 0. ... 0. 1. 0.]
+Accuracy: -inf %.
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+[0.02603603 0.02603603 0.02603603 ... 0.02603603 0.12308468 0.02603603]
+[0. 0. 0. ... 0. 1. 0.]
+[0.02603603 0.02603603 0.02603603 ... 0.02603603 0.87691532 0.02603603]
+Accuracy: -inf %.
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Accuracy: 0.0 %.
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Accuracy: 0.0 %.
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Accuracy: 0.92 %.
+Training Features Shape: (45000, 78018)
+Testing Features Shape: (5000, 78018)
+Accuracy: 92.0 %.
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       0.99      0.99      0.99      4531
+
+    accuracy                           1.00     45000
+   macro avg       0.99      0.99      0.99     45000
+weighted avg       1.00      1.00      1.00     45000
+
+training took 86.143535s!
+confusion matrix
+[[4490    9]
+ [  42  459]]
+TP:4490
+TN:459
+FP:42
+FN:9
+Recalls: 0.9979995554567682
+Precisions: 0.9907325684024714
+Accuracys: 0.9898
+f_value: 0.9943527848521759
+*************** Trainning done in 89.317s ***************
+
+
+********************** trainning start **********************
+takeup finished
+###### train Random Forest model #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       1.00      1.00      1.00      4531
+
+    accuracy                           1.00     45000
+   macro avg       1.00      1.00      1.00     45000
+weighted avg       1.00      1.00      1.00     45000
+
+confusion matrix
+[[40469     0]
+ [    0  4531]]
+TP:40469
+TN:4531
+FP:0
+FN:0
+Recalls: 1.0
+Precisions: 1.0
+Accuracys: 1.0
+f_value: 1.0
+training took 382.920847s!
+confusion matrix
+[[4498    1]
+ [  71  430]]
+TP:4498
+TN:430
+FP:71
+FN:1
+Recalls: 0.9997777283840854
+Precisions: 0.9844604946377763
+Accuracys: 0.9856
+f_value: 0.9920599911777679
+*************** Trainning done in 384.624s ***************
+
+
